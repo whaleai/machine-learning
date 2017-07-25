@@ -19,6 +19,12 @@
 | ------------- |:-------------:| -----:|
 | wangxiaolei   | 1             | https://github.com/wangxiaoleiAI |
 
+
+|编号|  姓名 |             博客              | github                  |加入时间|
+| :-- | :----: | :-----------------------: | :--------------------: | ---: |
+|1  | 王小雷 | http://blog.csdn.net/dream_an | https://github.com/wangxiaoleiAI |2017-7-24|
+|2  |--|--|--|--|
+
 作者
 ---------
 |编号|  姓名 |             博客              | github                  |加入时间|
