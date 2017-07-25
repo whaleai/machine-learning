@@ -16,6 +16,7 @@
 
 作者
 ---------
+
 | 编号      | 姓名      |    文章数目 | 博客  | Github|加入时间|
 | :-------- | --------:| :--: | :--: | :--: |
 |#1| 王小雷  | 1 |  http://blog.csdn.net/dream_an   |https://github.com/wangxiaoleiAI |2017-07-24 |
@@ -25,6 +26,7 @@
 
 English
 ---------
+
  ❤[Fork](https://github.com/whaleai/machine-learning.git) ★[Star](https://github.com/whaleai/machine-learning.git)
 
 - [Overview](#overview)
@@ -32,13 +34,15 @@ English
 
 Overview
 --------
+
 CSDN blog column, machine learning - algorithms and programming @ Wangxiaolei, open source articles and source code
 
 
 
 Author
 ---------
+
 | Number      | Name      |    Article | Site  | Github|Join|
 | :-------- | --------:| :--: | :--: | :--: |
-|#1| wangxiaolei  | 1 |  http://blog.csdn.net/dream_an   |https://github.com/wangxiaoleiAI |2017-07-24 |
-|#2| NULL  | NULL |  NULL|NULL|NULL|
+|1| wangxiaolei  | 1 | http://blog.csdn.net/dream_an   |https://github.com/wangxiaoleiAI |2017-07-24 |
+|2| NULL  | NULL |  NULL|NULL|NULL|
