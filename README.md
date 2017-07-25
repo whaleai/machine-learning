@@ -21,15 +21,10 @@
 
 作者
 ---------
-|姓名           | article       | github  |
-| ------------- |:-------------:| -----:|
-| wangxiaolei   | 1             | https://github.com/wangxiaoleiAI |
-
-
-| 编号      |姓名      |   文章数目 | 博客  | Github|加入时间|
-| :-------- |--------:|:--:|:--:| :--: |
-|1| 王小雷 | 1 |  http://blog.csdn.net/dream_an   |https://github.com/wangxiaoleiAI |2017-07-24|
-|2|虚位以待|虚位以待|虚位以待|虚位以待|虚位以待|
+|编号|  姓名 |             博客              | github                  |加入时间|
+|:--|:--- -:| :----------------------------:|:----------------------:|-----:|
+|1  | 王小雷 | http://blog.csdn.net/dream_an | https://github.com/wangxiaoleiAI |2017-7-24|
+|2  |--|--|--|--|
 
 
 
@@ -50,8 +45,3 @@ CSDN blog column, machine learning - algorithms and programming @ Wangxiaolei, o
 
 Author
 ---------
-
-| Number      | Name      |    Article | Site  | Github|Join|
-| :-------- | --------:| :--: | :--: | :--: |
-|1| wangxiaolei  | 1 | http://blog.csdn.net/dream_an   |https://github.com/wangxiaoleiAI |2017-07-24 |
-|2| NULL  | NULL |  NULL|NULL|NULL|
